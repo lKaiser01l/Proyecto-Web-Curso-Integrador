@@ -1,6 +1,6 @@
 ## Proyecto para el Curso Integrador: Sistemas-Sofware
 
-El proyecto consiste en el diseño de una pagina web para una empresa o negocio, mediante java utilizando neatbeans
+El proyecto consiste en el diseño de una pagina web para un hotel, mediante neatbeans 
 
 > [!IMPORTANT]
 > ## Para poder contribuir al proyecto
