@@ -11,3 +11,4 @@ El proyecto consiste en el diseño de una pagina web para un hotel, mediante nea
 > | :---------- | :---------- |
 > | `NetBeans`  | 19          |
 > | `Java JDK`  | 8           |
+> | 'GlassFish' | 5.0.1       |
