@@ -10,4 +10,4 @@ El proyecto consiste en el diseño de una pagina web para una empresa o negocio,
 > | Utilidad    | Version     |
 > | :---------- | :---------- |
 > | `NetBeans`  | 19          |
-> | `Java JDK`  | 22          |
+> | `Java JDK`  | 8           |
