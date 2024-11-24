@@ -1,6 +1,6 @@
 <%-- 
-    Document   : reserva
-    Created on : 24-nov-2024, 10:55:04
+    Document   : Registro
+    Created on : 24-nov-2024, 11:43:51
     Author     : arian
 --%>
 
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>RESERVA</title>
+        <title>JSP Page</title>
     </head>
     <body>
         <h1>Hello World!</h1>
